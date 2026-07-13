@@ -1,1 +1,1 @@
-# Odin-Recipes
+Alright, so. This mini project is made following The Odin Project's course. This is one of the most significant steps to become an AppSec Engineer, because I need to learn more about web development and I want to document my progress. ^^
